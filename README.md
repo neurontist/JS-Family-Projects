@@ -2,7 +2,7 @@
 
 A classic Tic-Tac-Toe game built with HTML, CSS, and JavaScript featuring a modern, gradient-based UI design.
 
-![alt text](image.png)
+![alt text](TicTacToe.png)
 
 ## Features
 
