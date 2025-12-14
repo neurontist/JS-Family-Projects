@@ -1,1 +1,1 @@
-Repo of My JavaScript Family Learning
+Repo of JavaScript Family Learning
